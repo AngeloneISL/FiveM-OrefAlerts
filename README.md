@@ -1,4 +1,4 @@
-# private_alerts
+# private_missilealerts
 Red alerts script for FiveM
 
 Original Idea by barbaroNN, Fixed & Improved by Angelone.
