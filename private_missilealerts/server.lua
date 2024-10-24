@@ -17,7 +17,7 @@ CreateThread(function()
     local firing = false
     local waitTime = math.ceil(Config.AlertScanTime * 1000)
     
-    if(waitTime <= 1) then
+    if(waitTime < 1000) then
         error("Scan Time is too low")
         return
     end
