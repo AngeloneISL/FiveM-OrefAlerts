@@ -3,6 +3,8 @@ Red alerts script for FiveM
 
 Original Idea by barbaroNN, Fixed & Improved by Angelone.
 
+# This Script Is Standalone
+
 Preview:
 
 
