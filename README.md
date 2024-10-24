@@ -1,0 +1,7 @@
+# israel-alerts
+Red alerts script for FiveM
+
+Original Idea by barbaroNN, Fixed & Improved by Angelone.
+
+Preview:
+![image](https://github.com/user-attachments/assets/fcff08df-e38e-4a79-9889-73c914c2976a)
