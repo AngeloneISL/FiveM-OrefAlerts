@@ -8,7 +8,7 @@ $(document).ready(async function () {
     let animationTime = 1000
     let cities = []
     let SpecificAlert = false;
-    let personalCity = localStorage.getItem("private_cityalert") || "תל חי";
+    let personalCity = localStorage.getItem("private_cityalert") || null;
     $('.alerts').css(alertSide, "-50vh");
     const alertSound = new Audio(`nui://${GetParentResourceName()}/html/sounds/alert.ogg`);
     window.addEventListener("message", function (event) {
