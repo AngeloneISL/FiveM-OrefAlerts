@@ -14,7 +14,7 @@ Preview:
 ![image](https://github.com/user-attachments/assets/6c494d6c-3bda-4ada-b989-df3b4f832a96)
 
 
-![url](https://streamable.com/ctq4rd)
+[Preview Video](https://streamable.com/ctq4rd)
 
 
 # Be warned this script won't work properly if your server's time isn't set to GMT+3 israel time or is in-accurate
