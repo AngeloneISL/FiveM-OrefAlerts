@@ -111,8 +111,8 @@ button:hover {
 
 .alert {
   background-color: #d1e4f7;
-  padding: 4px;
-  margin: 5px 0;
+  padding: 1px;
+  margin: 1px 0;
   border-radius: 5px;
   color: #1c3b64;
   font-size: 18px;
@@ -120,8 +120,8 @@ button:hover {
 
 .alert-flash {
   background-color: #d1e4f7;
-  padding: 4px;
-  margin: 5px 0;
+  padding: 1px;
+  margin: 1px 0;
   border-radius: 5px;
   color: #1c3b64;
   font-size: 18px;
